@@ -38,8 +38,6 @@
 - 📧 Email: [evanor@foxmail.com](mailto:evanor@foxmail.com)  
 - 🏠 Blog (coming soon): [https://Evanor.github.io](https://Evanor.github.io)
 ---
----
-
 <p align="center">
   <sub>💫 The destined limits may always exist, but the unyielding challenge must never be absent.<br/>
   命定的局限尽可永在，不屈的挑战却不可须臾或缺。</sub>
