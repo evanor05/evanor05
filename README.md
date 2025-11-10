@@ -38,18 +38,6 @@
 - 📧 Email: [evanor@foxmail.com](mailto:evanor@foxmail.com)  
 - 🏠 Blog (coming soon): [https://Evanor.github.io](https://Evanor.github.io)
 ---
-## 🎧 Favorite Music | 我喜欢的音乐
-<p align="center">
-  <em>Energy in motion, thinking in rhythm.</em><br/>
-  能量在流动，思考在律动。
-</p>
-
-<p align="center">
-  <a href="https://music.163.com/dj?id=3706500416" target="_blank">
-    <img src="https://p1.music.126.net/n8kDJMiDbbQwJjytkPzv3g==/109951169250990905.jpg" width="300" alt="DJ MIX - 网易云音乐" />
-  </a><br/>
-  🎵 点击封面收听6861 DJ Radio
-</p>
 ---
 
 <p align="center">
