@@ -41,12 +41,14 @@
 ## 🎧 Favorite Music | 我喜欢的音乐
 <p align="center">
   <em>Energy in motion, thinking in rhythm.</em><br/>
+  能量在流动，思考在律动。
 </p>
+
 <p align="center">
-  <!-- 网易云音乐外链 -->
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
-    width="330" height="86"
-    src="//music.163.com/outchain/player?type=3&id=3706500416&auto=0&height=66"></iframe>
+  <a href="https://music.163.com/dj?id=3706500416" target="_blank">
+    <img src="https://p1.music.126.net/n8kDJMiDbbQwJjytkPzv3g==/109951169250990905.jpg" width="300" alt="DJ MIX - 网易云音乐" />
+  </a><br/>
+  🎵 点击封面收听6861 DJ Radio
 </p>
 ---
 
