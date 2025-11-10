@@ -12,42 +12,45 @@
 ---
 
 ## 🧭 About Me | 关于我
-- 🎓 A second-year student at **Wuxi University**, majoring in *Rail Transit Signal and Control*  
-  无锡学院大二在读，主修轨道交通信号与控制  
-- 🧩 Currently learning **C**, **Linux**, **Python**, and **Hexo**  
-  正在学习 C / Linux / Python / Hexo 等相关技术  
-- 💬 Passionate about problem-solving, algorithms, and system-level thinking  
-  热爱算法与系统思维的结合，享受从零构建的过程  
-- 🧠 Motto: *True understanding matters more than speed*  
-  相信慢一点没关系，关键是学得真  
+- 🎓 A second-year student at **Wuxi University**
+  无锡学院大二在读
+- 🧩 Currently learning **C**, **Java**, **Python**, **Spring Boot**, **MySQL**, **Linux**, and **electronics (analog & digital)**  
+  正在学习 C / Java / Python / Spring Boot / MySQL / Linux / 模电 / 数电  
+- 💬 Want to create something truly useful, not just practice for the sake of it.  
+  想做点真正有用的东西。
 
 ---
 
 ## ⚙️ Tech Stack | 技能栈
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Electronics-00599C?logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Logic-555555?logoColor=white" />
 </p>
 
 ---
-
-## 📊 GitHub Stats | 统计数据
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Evanor&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evanor&layout=compact&hide_border=true&theme=vue-dark" />
-</p>
-
----
-
 ## 🌐 Contact | 联系我
-- 📧 Email: [3600765375@qq.com](mailto:3600765375@qq.com)  
+- 📧 Email: [evanor@foxmail.com](mailto:evanor@foxmail.com)  
 - 🏠 Blog (coming soon): [https://Evanor.github.io](https://Evanor.github.io)
-
+---
+## 🎧 Favorite Music | 我喜欢的音乐
+<p align="center">
+  <em>Energy in motion, thinking in rhythm.</em><br/>
+</p>
+<p align="center">
+  <!-- 网易云音乐外链 -->
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+    width="330" height="86"
+    src="//music.163.com/outchain/player?type=3&id=3706500416&auto=0&height=66"></iframe>
+</p>
 ---
 
 <p align="center">
-  <sub>💫 Built with patience, powered by curiosity.<br/>
-</sub>
+  <sub>💫 The destined limits may always exist, but the unyielding challenge must never be absent.<br/>
+  命定的局限尽可永在，不屈的挑战却不可须臾或缺。</sub>
 </p>
