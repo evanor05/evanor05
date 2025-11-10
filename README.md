@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Evanor 👋</h1>
 <p align="center">
-  🌱 A developer who believes in growth through patience and persistence.<br/>
   💡 不怕笨鸟先飞，就怕一知半解。
 </p>
 
@@ -34,15 +33,6 @@
 
 ---
 
-## 💡 Philosophy | 学习理念
-> “不怕笨鸟先飞，就怕一知半解。”  
-> *Don’t fear being slow; fear shallow understanding.*
-
-保持学习的节奏，持续深入思考。  
-Learning is not a race — it’s a journey of clarity and persistence.
-
----
-
 ## 📊 GitHub Stats | 统计数据
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Evanor&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" />
@@ -59,5 +49,5 @@ Learning is not a race — it’s a journey of clarity and persistence.
 
 <p align="center">
   <sub>💫 Built with patience, powered by curiosity.<br/>
-  用耐心构筑，用好奇驱动。</sub>
+</sub>
 </p>
